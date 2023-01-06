@@ -1,7 +1,9 @@
 
 import java.util.Scanner;
 
-public class Main {
+
+//Program to swap
+public class moroseangel {
     public static void main(String[] args) {
 
         int randomA, randomB;
